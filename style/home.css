@@ -1,4 +1,4 @@
-/* body {
+body {
   font-family: Arial, sans-serif;
   background: #f1f5f9;
   display: flex;
@@ -67,9 +67,9 @@ li {
 .complete-btn {
   background: #22c55e;
   color: #fff;
-} */
+}
 
-.open-modal-btn {
+/* .open-modal-btn {
   background: #4f46e5;
   color: #fff;
   padding: 10px 14px;
@@ -102,4 +102,4 @@ li {
   background: transparent;
   cursor: pointer;
   float: right;
-}
+} */
