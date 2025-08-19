@@ -72,4 +72,3 @@ closeBtn.addEventListener("click", () => {
 // merge
 // conflict
 // pull
-// push
