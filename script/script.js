@@ -47,7 +47,7 @@ const closeBtn = document.getElementById("closeBtn");
 
 openBtn.addEventListener("click", () => {
   modalOverlay.style.display = "flex";
-  document.title = "Modal Opened";
+  document.title = "Modal Open";
 });
 
 window.addEventListener("click", (event) => {
